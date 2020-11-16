@@ -2,7 +2,8 @@
 This is basic notebook to extract radiomics features from BRATS18 dataset for classification
 please download brats2018 dataset and save in local drive.
 https://www.med.upenn.edu/sbia/brats2018/data.html
-run notebook and save the features in pickle or direclty used theses features for classification
+
+Run notebook and save the features in pickle or direclty used theses features for classification
 # Install pyradiomics using pip install pyradiomics
 pip install pyradiomics, see the link below for further detail
 https://github.com/Radiomics/pyradiomics
