@@ -7,6 +7,8 @@ Run notebook and save the features in pickle or direclty used theses features fo
 # Install pyradiomics using pip install pyradiomics
 pip install pyradiomics, see the link below for further detail
 https://github.com/Radiomics/pyradiomics
+
 Also install scikit-learn for classification algorithms
+
 If any issue, please contact me
 engr.qayyum@gmail.com, or Abdul.Qayyum@u-bourgogne.fr
